@@ -1,0 +1,2 @@
+CREATE USER your_username IDENTIFIED BY your_password;
+GRANT CONNECT, RESOURCE TO your_username;

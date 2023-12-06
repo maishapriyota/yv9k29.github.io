@@ -1,0 +1,2 @@
+CREATE USER user_login IDENTIFIED BY yv9k29;
+GRANT CONNECT, RESOURCE TO your_username;
